@@ -1,0 +1,28 @@
+.bgImg{
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    background: url("../images/mobileImg.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+
+}
+
+/* for desktop */
+@media only screen and (min-width: 768px) {
+    .bgImg {
+        position: relative;
+        width: 100vw;
+        height: 100vh;
+        background: url("../images/desktopImg.png");
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        display: flex;
+        margin-top: -5%;
+
+        
+    }
+}

@@ -1,0 +1,50 @@
+[
+    {
+        "key": 1,
+        "id": "onTapLogo",
+        "name": "On Tap", 
+        "img": "OnTapLogo.png", 
+        "text": "User's one stop to everything they'll need to get the party going", 
+        "link": "https://github.com/nlabrada/On-Tap"
+    },
+    {
+        "key": 2,
+        "id": "stayWokeLogo",
+        "name": "Stay Woke", 
+        "img": "alien-emoji.png", 
+        "text": "Flex your knowledge of conspiracy theories", 
+        "link": "https://github.com/nlabrada/stayWoke"
+    },
+    {
+        "key": 3,
+        "id": "shotSpotLogo",
+        "name": "Shot Spot",
+        "img": "shotSpotLogo.png", 
+        "text": "Helping you find local bars with good drinks and even better happy hours!",
+        "link": "https://github.com/nlabrada/shotSpot"
+    },
+    {
+        "key": 4,
+        "id": "clickThatPicLogo",
+        "name": "Click That Pic",
+        "img": "clickThatPicLogo.png", 
+        "text": "Test your memory with this Always Sunny themed game!",
+        "link": "https://github.com/nlabrada/click-that-pic/"
+    },
+    {
+    "key": 5,
+    "id": "findingBrosLogo",
+    "name": "Finding Bros 🤝",
+    "img": "fb-result.png", 
+    "text": "Find the person you're most compatible with based off of your answers!",
+    "link": "https://finding-bros.herokuapp.com/"
+    },
+    {
+        "key": 6,
+        "id": "gangGetsGamedLogo",
+        "name": "Click That Pic",
+        "img": "gangGetsGamed.png", 
+        "text": "Test your memory with this Always Sunny themed game 🍀",
+        "link": "https://github.com/nlabrada/click-that-pic"
+    }
+]

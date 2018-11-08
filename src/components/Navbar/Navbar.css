@@ -1,0 +1,12 @@
+.navbar {
+    background-color: #95ccf3;
+    padding-top: 0rem;
+    padding-bottom: 0rem;
+    
+}
+.navbar-brand {
+    font-size: 250%;
+    font-family: 'Bungee Shade', cursive;
+    color: black !important;
+
+}

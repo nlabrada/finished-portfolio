@@ -1,0 +1,42 @@
+body {
+    background-color: #faf8ce;
+    margin-bottom: 80px;
+}
+
+.btn-group-vertical {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.homebtns {
+    font-family: 'Shrikhand', cursive;
+    font-size: 300%;
+    background-color: transparent;
+    border: none;
+    margin-bottom: 15%;
+    margin-top: 50%;
+}
+
+.btn:active,
+.btn:focus,
+.btn.active,
+.btn:active:focus {
+   background-image: none;
+   outline: 0;
+   -webkit-box-shadow: none;
+   box-shadow: none;
+}
+
+
+/* for desktop */
+@media only screen and (min-width: 768px) {
+    .btn-group-vertical {
+        margin-top: 12%;
+        margin-bottom: none;
+    }
+    .homebtns{
+        margin-bottom: 50%;
+        margin-top: 10%;
+    }
+}
