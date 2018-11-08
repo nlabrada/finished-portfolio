@@ -46,6 +46,14 @@
         "img": "giftasticLogo.png", 
         "text": "Render some sick gifs of your fav movies",
         "link": "https://github.com/nlabrada/gifTastic"
+    },
+    {
+        "key": 8,
+        "id": "yeetCollectorLogo",
+        "name": "Yeet Collector",
+        "img": "yeetCollectorLogo.png", 
+        "text": "Click the cowboy emojis and reach the score goal!",
+        "link": "https://github.com/nlabrada/yeet-collector"
     }
 
 ]
