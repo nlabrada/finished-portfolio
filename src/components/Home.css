@@ -1,5 +1,6 @@
 body{
     background-color: #faf8ce;
+    margin-bottom: 80px;
 }
 .btn:active,
 .btn:focus,
@@ -22,29 +23,37 @@ body{
     text-align: center;
 }
 
-/* for iphone x portrait*/
-@media only screen 
-and (min-device-width : 375px) 
-and (max-device-width : 812px)
-and (-webkit-device-pixel-ratio : 3) {
-    body {
-        margin-bottom: 80px;
-    }
-    .homebtns {
-        margin-bottom: 15%;
-        margin-top: 50%;
-    }
-}
 
 /* for iphone 6/7/8 */
 @media only screen 
 and (min-device-width : 375px) 
 and (max-device-width : 667px) {
     .homebtns {
-        margin-bottom: 15%;
-        margin-top: 30%;
+        margin-top: 35%;
+        margin-bottom: 10%;
     }
+}
 
+
+/* for iphone x portrait*/
+@media only screen 
+and (min-device-width : 375px) 
+and (max-device-width : 812px)
+and (-webkit-device-pixel-ratio : 3) {
+    .homebtns {
+        margin-bottom: 15%;
+        margin-top: 42%;
+    }
+}
+
+/* for iphone 6/7/8 plus */
+@media only screen 
+and (min-device-width : 414px) 
+and (max-device-width : 736px) {
+    .homebtns {
+        margin-top: 33%;
+        margin-bottom: 15%;
+    }
 }
 
 /* for desktop */
@@ -54,7 +63,7 @@ and (max-device-width : 667px) {
         margin-bottom: none;
     }
     .homebtns{
-        margin-bottom: 50%;
-        margin-top: 10%;
+        margin-bottom: 0%;
+        margin-top: 15%;
     }
 }
