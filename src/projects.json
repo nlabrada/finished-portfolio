@@ -24,20 +24,12 @@
         "link": "https://github.com/nlabrada/shotSpot"
     },
     {
-        "key": 4,
-        "id": "clickThatPicLogo",
-        "name": "Click That Pic",
-        "img": "clickThatPicLogo.png", 
-        "text": "Test your memory with this Always Sunny themed game!",
-        "link": "https://github.com/nlabrada/click-that-pic/"
-    },
-    {
-    "key": 5,
-    "id": "findingBrosLogo",
-    "name": "Finding Bros 🤝",
-    "img": "fb-result.png", 
-    "text": "Find the person you're most compatible with based off of your answers!",
-    "link": "https://finding-bros.herokuapp.com/"
+        "key": 5,
+        "id": "findingBrosLogo",
+        "name": "Finding Bros 🤝",
+        "img": "fb-result.png", 
+        "text": "Find the person you're most compatible with based off of your answers!",
+        "link": "https://finding-bros.herokuapp.com/"
     },
     {
         "key": 6,
