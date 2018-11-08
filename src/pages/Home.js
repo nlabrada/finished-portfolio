@@ -17,7 +17,6 @@ class Home extends Component {
                                     ABOUT ME
                                 </button>
                             </Link>
-                            <hr />
                             <Link to="/portfolio">
                                 <button type="port-btn" className="btn homebtns">
                                     PORTFOLIO

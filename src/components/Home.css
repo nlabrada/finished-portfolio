@@ -1,33 +1,51 @@
-body {
+body{
     background-color: #faf8ce;
-    margin-bottom: 80px;
 }
-
+.btn:active,
+.btn:focus,
+.btn.active,
+.btn:active:focus {
+    background-image: none;
+    outline: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+.homebtns{
+    font-family: 'Shrikhand', cursive;
+    font-size: 300%;
+    background-color: transparent;
+    border: none;
+}
 .btn-group-vertical {
     display: block;
     margin: 0 auto;
     text-align: center;
 }
 
-.homebtns {
-    font-family: 'Shrikhand', cursive;
-    font-size: 300%;
-    background-color: transparent;
-    border: none;
-    margin-bottom: 15%;
-    margin-top: 50%;
+/* for iphone x portrait*/
+@media only screen 
+and (min-device-width : 375px) 
+and (max-device-width : 812px)
+and (-webkit-device-pixel-ratio : 3) {
+    body {
+        margin-bottom: 80px;
+    }
+    .homebtns {
+        margin-bottom: 15%;
+        margin-top: 50%;
+    }
 }
 
-.btn:active,
-.btn:focus,
-.btn.active,
-.btn:active:focus {
-   background-image: none;
-   outline: 0;
-   -webkit-box-shadow: none;
-   box-shadow: none;
-}
+/* for iphone 6/7/8 */
+@media only screen 
+and (min-device-width : 375px) 
+and (max-device-width : 667px) {
+    .homebtns {
+        margin-bottom: 15%;
+        margin-top: 30%;
+    }
 
+}
 
 /* for desktop */
 @media only screen and (min-width: 768px) {
