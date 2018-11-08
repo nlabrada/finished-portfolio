@@ -38,5 +38,14 @@
         "img": "gangGetsGamed.png", 
         "text": "Test your memory with this Always Sunny themed game 🍀",
         "link": "https://github.com/nlabrada/click-that-pic"
+    },
+    {
+        "key": 7,
+        "id": "giftasticLogo",
+        "name": "gifTastic",
+        "img": "giftasticLogo.png", 
+        "text": "Render some sick gifs of your fav movies",
+        "link": "https://github.com/nlabrada/gifTastic"
     }
+
 ]
