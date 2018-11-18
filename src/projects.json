@@ -54,6 +54,13 @@
         "img": "yeetCollectorLogo.png", 
         "text": "Click the cowboy emojis and reach the score goal!",
         "link": "https://github.com/nlabrada/yeet-collector"
+    },
+    {
+        "key": 9,
+        "id": "psychicGameLogo",
+        "name": "Psychic Game",
+        "img": "psychicGameLogo.png", 
+        "text": "Guessing the random letter is harder than you think",
+        "link": "https://github.com/nlabrada/psychicGame"
     }
-
 ]
