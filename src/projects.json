@@ -1,6 +1,14 @@
 [
-    {
+    {   
         "key": 1,
+        "id": "calcLogo",
+        "name": "Mathematical!", 
+        "img": "calc_cover.png", 
+        "text": "User's one stop to everything they'll need to get the party going", 
+        "link": "https://github.com/nlabrada/calculator"
+    },
+    {
+        "key": 2,
         "id": "onTapLogo",
         "name": "On Tap", 
         "img": "OnTapLogo.png", 
@@ -8,7 +16,7 @@
         "link": "https://github.com/nlabrada/On-Tap"
     },
     {
-        "key": 2,
+        "key": 3,
         "id": "stayWokeLogo",
         "name": "Stay Woke", 
         "img": "alien-emoji.png", 
@@ -16,7 +24,7 @@
         "link": "https://github.com/nlabrada/stayWoke"
     },
     {
-        "key": 3,
+        "key": 4,
         "id": "shotSpotLogo",
         "name": "Shot Spot",
         "img": "shotSpotLogo.png", 
@@ -62,5 +70,14 @@
         "img": "psychicGameLogo.png", 
         "text": "Guessing the random letter is harder than you think",
         "link": "https://github.com/nlabrada/psychicGame"
+    },
+    {
+        "key": 10,
+        "id": "bamazonLogo",
+        "name": "Bamazon",
+        "img": "bamazonLogo.png", 
+        "text": "An Amazon-like storefront utilizing MySQL skills",
+        "link": "https://github.com/nlabrada/bamazon"
     }
+
 ]
